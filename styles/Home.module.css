@@ -52,6 +52,10 @@
 	margin-top: 5rem;
 }
 
+.footer {
+	margin-block: 7rem 1rem;
+}
+
 /** Breakpoints:
   sm: min-width: 640px;
   md: min-width: 768px;
