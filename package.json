@@ -1,22 +1,21 @@
 {
-  "name": "local-coffees",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@next/font": "13.0.7",
-    "airtable": "^0.11.6",
-    "eslint": "8.30.0",
-    "eslint-config-next": "13.0.7",
-    "next": "13.0.7",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "swr": "^2.0.0",
-    "unsplash-js": "^7.0.15"
-  }
+	"name": "local-coffees",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"airtable": "^0.11.4",
+		"eslint": "8.16.0",
+		"eslint-config-next": "13.0.6",
+		"next": "13.0.6",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"swr": "^1.3.0",
+		"unsplash-js": "^7.0.15"
+	}
 }
